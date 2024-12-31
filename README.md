@@ -12,11 +12,11 @@ This project explores the relationship between key economic indicators and stock
 2.Economic Indicators: Sourced from Kaggle's "Financial Indicators of US Recession" dataset and other reliable sources (October 2014 to February 2023).
 
 # Methodology
-1.Data Preparation
+1.Data Preparation<br />
 a.Cleaning: Addressed missing values and ensured consistency in data formats.<br />
 b.Aggregation: Resampled daily data to monthly frequency.<br />
 c.Merging: Combined sector performance with economic indicators for time-series analysis.<br />
-2.Analytical Techniques
+2.Analytical Techniques<br />
 1.Regression Modeling: Multivariate regression to assess combined effects of indicators.<br />
 2.Cross-Correlation Analysis: Evaluated lag relationships between indicators and stock performance.<br />
 3.Volatility and Magnitude Analysis: Calculated standard deviations and absolute changes in stock returns.
